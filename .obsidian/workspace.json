@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c40447ff7ccf9c5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b0c0cbf3de93ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44202463233282bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb031a1c37652c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14601b7dcfe14b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc18921662312bb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "49e9ac2f48abdb52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8b752b34fda03c7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda7903c2d9cfc13",
+    "type": "split",
+    "children": [
+      {
+        "id": "a74c25ef41d49511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c66398be1ae1fab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "6017881424d5a9e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "1da87c63dcd68570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6220a46a08b4cc17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "95d5966b04935af2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc18921662312bb6",
+  "lastOpenFiles": [
+    "7 Дополнительные материалы/медиа файлы",
+    "3 Раздел контроля знаний/Промежуточное тестирование",
+    "3 Раздел контроля знаний/ОКР",
+    "4 Вспомогательный раздел/Разработанная документация",
+    "4 Вспомогательный раздел/Нормативные документы",
+    "README.md",
+    "7 Дополнительные материалы/шаблоны заметок",
+    "7 Дополнительные материалы/7 Дополнительные материалы.md",
+    "6 Работа с высокомотивироваными учащимися/6 Работа с высокомотивироваными учащимися.md",
+    "5 Работа с низкомотивироваными учащимися/5 Работа с низкомотивироваными учащимися.md",
+    "4 Вспомогательный раздел/4 Вспомогательный раздел.md",
+    "3 Раздел контроля знаний/3 Раздел контроля знаний.md",
+    "2 Практический раздел/2 Практический раздел.md",
+    "1 Теоретический раздел/1 Теоретический раздел.md",
+    "7 Дополнительные материалы",
+    "6 Работа с высокомотивироваными учащимися",
+    "5 Работа с низкомотивироваными учащимися",
+    "4 Вспомогательный раздел",
+    "3 Раздел контроля знаний",
+    "Добро пожаловать.md"
+  ]
+}
